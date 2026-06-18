@@ -1,0 +1,76 @@
+{
+    "id": 1639102775008,
+    "nodes": [
+        {
+            "id": 1639157803872,
+            "title": "Undefined Node",
+            "custom_name": "Empty name",
+            "pos_x": -458.0,
+            "pos_y": -181.0,
+            "class": "BaseManchine",
+            "inputs": [
+                {
+                    "id": 1639157804160,
+                    "index": 0,
+                    "name": "INPUT",
+                    "multi_edges": false,
+                    "position": 2,
+                    "socket_type": 1
+                }
+            ],
+            "outputs": [
+                {
+                    "id": 1639157804208,
+                    "index": 0,
+                    "name": "OUTPUT",
+                    "multi_edges": true,
+                    "position": 5,
+                    "socket_type": 1
+                }
+            ],
+            "content": {
+                "INPUT": "",
+                "OUTPUT": ""
+            }
+        },
+        {
+            "id": 1639157805360,
+            "title": "Undefined Node",
+            "custom_name": "Empty name",
+            "pos_x": 30.0,
+            "pos_y": -191.0,
+            "class": "BaseManchine",
+            "inputs": [
+                {
+                    "id": 1639157805648,
+                    "index": 0,
+                    "name": "INPUT",
+                    "multi_edges": false,
+                    "position": 2,
+                    "socket_type": 1
+                }
+            ],
+            "outputs": [
+                {
+                    "id": 1639157805696,
+                    "index": 0,
+                    "name": "OUTPUT",
+                    "multi_edges": true,
+                    "position": 5,
+                    "socket_type": 1
+                }
+            ],
+            "content": {
+                "INPUT": "",
+                "OUTPUT": ""
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": 1639157805744,
+            "start": 1639157805648,
+            "end": 1639157804208
+        }
+    ]
+}

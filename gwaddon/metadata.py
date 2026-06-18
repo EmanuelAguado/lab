@@ -1,0 +1,6 @@
+COMPANY_NAME="EmaLAB"
+PROGRAM_NAME="Gwaddon"
+COPYRIGHT="EmaLAB. All rights reserved."
+PROGRAM_VERSION="2025.07.12.1258"
+PROGRAM_URL="https://www.mondotvstudios.com/"
+AUTHORS="Emanuel Aguado Pérez"
